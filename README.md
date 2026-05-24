@@ -114,26 +114,6 @@ This was implemented using:
 
 ---
 
-## Unit Testing
-
-Unit tests were implemented using Python `unittest` for validating emotion detection accuracy.
-
-| Input Statement | Expected Dominant Emotion |
-
-| :--- | :--- |
-
-| I am glad this happened | joy |
-
-| I am really mad about this | anger |
-
-| I feel disgusted just hearing about this | disgust |
-
-| I am so sad about this | sadness |
-
-| I am really afraid that this will happen | fear |
-
----
-
 ## Deployment
 
 The Flask application is deployed locally using:
