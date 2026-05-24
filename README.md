@@ -2,6 +2,8 @@ Final project
 
 # NLP Emotion Detection Web Application
 
+<img width="1280" height="756" alt="6b_deployment_test" src="https://github.com/user-attachments/assets/bc3e45f4-706c-47d8-8703-7b8fd1d7e0d9" />
+
 This project is a Flask-based NLP Emotion Detection application that analyzes user-provided text and identifies emotions using IBM Watson NLP APIs.
 
 The application accepts text input from the user through a web interface, sends the text to the Watson Emotion Prediction API, processes the response, and displays:
